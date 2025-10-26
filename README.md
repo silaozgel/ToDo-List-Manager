@@ -14,4 +14,4 @@ A Python-based task management application that allows users to add, update, com
 
 ## How to Run
 ```bash
-python main.py
+python todolist.py

@@ -15,3 +15,7 @@ A Python-based task management application that allows users to add, update, com
 ## How to Run
 ```bash
 python todolist.py
+```
+## Author
+**Sıla Özgel**
+Computer Engineering Student
